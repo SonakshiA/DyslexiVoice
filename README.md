@@ -1,4 +1,4 @@
-# Text_To_Speech
+# DyslexiVoice
 Created a text-to-speech Android application for students with dyslexia
 
 The application uses OpenDyslexic font family to improve focus and readability and highlights the word that is being spoken for better understanding.
